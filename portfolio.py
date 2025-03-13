@@ -121,15 +121,15 @@ elif st.session_state.page == "projects":
     - **Segmentation of Palmprint Region From Diversified Hand Videos** – IEEE CONECCT 2024  
       Implemented a novel algorithm utilizing the Segment Anything Model using deep learning framework to accurately segment palmprint regions from diverse hand video datasets with annotations from a proprietary hand video dataset, containing videos of 30 individuals  
       - Applied advanced image processing techniques including thresholding, contour detection, and ROI extraction to enhance palmprint recognition efficiency by \(35 \%\), contributing to the development of robust biometric authentication systems  
-      [Citation](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/48802536/2164ec04-c612-435b-ae86-28105adf9f77/Resume_SwaraJoshi.pdf)
+      [Citation](https://ieeexplore.ieee.org/document/10677138)
 
     - **Cancer Detection with machine learning approach** – Presented at the 2nd International Conference on Advancements in Smart Computing and Information Security: Reviewed 50+ research studies on ML techniques for detecting breast, lung, skin, and prostate cancers, with model accuracies ranging from \(82 \%\) to \(97 \%\).
       - Highlighted research gaps and societal impact, showing a potential \(25 \%\) reduction in diagnostic errors through ML models, while analyzing algorithm complexities like CNN \(\left(O\left(n^{2}\right)\right)\) and random forests \((O(n \log n)\) )  
-      [Citation](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/48802536/2164ec04-c612-435b-ae86-28105adf9f77/Resume_SwaraJoshi.pdf)
+      [Citation](https://ieeexplore.ieee.org/abstract/document/10461904)
 
     - **A consolidated study of traditional data to Big Data** – Accepted in 3rd Asian Conference on Innovation in Technology (IJANA)
       - Highlighted the transition from RDBMS to NoSQL databases, focusing on MongoDB's efficiency in handling large-scale data, with observed improvements in query performance by up to \(40 \%\) due to its schema-less architecture  
-      [Citation](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/48802536/2164ec04-c612-435b-ae86-28105adf9f77/Resume_SwaraJoshi.pdf)
+      [Citation](https://www.researchgate.net/publication/378198693_A_consolidated_study_on_transformation_of_Traditional_Data_to_Big_Data)
 
     - **AI Agent Chatbot**  
       Built an end-to-end AI app integrating Groq and Tavily with Llama models, optimizing response accuracy and automation.
