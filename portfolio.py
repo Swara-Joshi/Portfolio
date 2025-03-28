@@ -62,13 +62,13 @@ if 'page' not in st.session_state:
 if st.session_state.page == "home":
     st.subheader("👋 About Me")
     st.write("""
-    I am a passionate Information Systems professional currently pursuing my Master's at Northeastern University, with a strong focus on emerging technologies and data-driven innovations. My goal is to leverage my academic experience and hands-on projects to contribute to advancements in the IT industry.
+    I am a passionate graduate student at Northeastern University, pursuing my Master's in Information Systems, with a strong focus on Artificial Intelligence, Machine Learning, and Data-Driven Innovations. My goal is to leverage my technical expertise and hands-on projects to drive advancements in AI, GenAI, and data science applications in the IT industry. With a keen interest in LLMs, AI automation, and intelligent systems, I have worked on several projects .
 
-    Beyond academics, I have been actively involved in personal growth and leadership roles. I served as the President of Camaraderie (Dance Crew) at PDEU and the Marketing Head of the GeeksforGeeks Student Chapter, enhancing my communication, project management, and leadership skills. I am also passionate about sports and fitness, actively participating in volleyball and staying engaged in fitness activities.
+    Beyond academics, I have taken on leadership roles, serving as President of Camaraderie (Dance Crew) and Marketing Head of the GeeksforGeeks Student Chapter, strengthening my skills in team leadership, project management, and strategic communication.
 
-    Since moving to the USA, I have been fully immersing myself in the culture, expanding my network, and exploring the tech ecosystem. My role as an ITS Customer Experience Technician at Northeastern University has allowed me to blend my technical background with customer-facing responsibilities, improving the user experience while staying up-to-date with the latest tech trends.
+    Since moving to the USA, I have been actively engaging with the tech ecosystem, networking, and expanding my knowledge of AI trends. My role as an ITS Customer Experience Technician at Northeastern University has allowed me to blend technical expertise with user experience enhancement, staying updated with the latest tech advancements.
 
-    Outside of academics and work, I enjoy traveling, exploring new places, and trying out diverse cuisines. I also participate in recreational activities like hiking and attend tech meetups to stay connected with the local tech community.
+    Outside of work and academics, I enjoy exploring AI-driven innovations, attending tech meetups, and contributing to AI research. I am also passionate about sports, fitness, and travel, constantly seeking new challenges and experiences.
     """)
 elif st.session_state.page == "education":
     st.subheader("🎓 Education")
