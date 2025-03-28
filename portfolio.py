@@ -133,8 +133,13 @@ elif st.session_state.page == "projects":
 
     - **AI Agent Chatbot**  
       Built an end-to-end AI app integrating Groq and Tavily with Llama models, optimizing response accuracy and automation.
-      - Developed a Pydantic-based backend and Streamlit frontend, reducing processing latency by \(50 \%\) and enhancing user interaction.
+      Developed an agentic AI chatbot that personalizes AI models (e.g., Llama, GPT-4) for specific tasks (e.g., health bot, email generator), integrating Groq, Tavily, and Llama models to enhance response accuracy and automation.Built a full-stack, end-to-end web application, reducing processing latency by 50% and improving user engagement with customizable features, including web search enablement.
       - **GitHub Link:** [https://github.com/Swara-Joshi](https://github.com/Swara-Joshi)
+
+    - **AI-Powered Newsletter Subscription System **  
+      Developed a full-stack web application leveraging web scraping with Selenium and Beautiful Soup to scrape finance and tech news. Incorporated OpenAI model for advanced content summarization and sentiment analysis, automating personalized email delivery to over 1000 subscribers, increasing engagement by 30%.
+      - **GitHub Link:** [https://github.com/Swara-Joshi](https://github.com/Swara-Joshi)
+    
     """)
     st.subheader("📜 Patents")
     st.write("""
