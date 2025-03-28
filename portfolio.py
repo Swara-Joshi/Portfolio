@@ -120,29 +120,33 @@ elif st.session_state.page == "projects":
     st.subheader("🚀 Projects and Publications")
     st.write("""
     - **AI Agent Chatbot**  
-      Built an end-to-end AI app integrating Groq and Tavily with Llama models, optimizing response accuracy and automation.
-      Developed an agentic AI chatbot that personalizes AI models (e.g., Llama, GPT-4) for specific tasks (e.g., health bot, email generator), integrating Groq, Tavily, and Llama models to enhance response accuracy and automation.Built a full-stack, end-to-end web application, reducing processing latency by 50% and improving user engagement with customizable features, including web search enablement.
+      - Built an end-to-end AI app integrating Groq and Tavily with Llama models, optimizing response accuracy and automation.
+      - Developed an agentic AI chatbot that personalizes AI models (e.g., Llama, GPT-4) for specific tasks (e.g., health bot, email generator), integrating Groq, Tavily, and Llama models to enhance response accuracy and automation.Built a full-stack, end-to-end web application, reducing processing latency by 50% and improving user engagement with customizable features, including web search enablement.
       [GitHub](https://github.com/Swara-Joshi/Agentic-Chatbot)
 
     - **AI-Powered Newsletter Subscription System**  
-      Developed a full-stack web application leveraging web scraping with Selenium and Beautiful Soup to scrape finance and tech news. Incorporated OpenAI model for advanced content summarization and sentiment analysis, automating personalized email delivery to over 1000 subscribers, increasing engagement by 30%.
+      - Developed a full-stack web application leveraging web scraping with Selenium and Beautiful Soup to scrape finance and tech news. 
+      - Incorporated OpenAI model for advanced content summarization and sentiment analysis, automating personalized email delivery to over 1000 subscribers, increasing engagement by 30%.
       [GitHub](https://github.com/Swara-Joshi/AI-Powered-Newsletter)
              
-    - **Segmentation of Palmprint Region From Diversified Hand Videos** – IEEE CONECCT 2024  
-      Implemented a novel algorithm utilizing the Segment Anything Model using deep learning framework to accurately segment palmprint regions from diverse hand video datasets with annotations from a proprietary hand video dataset, containing videos of 30 individuals  
+    - **Segmentation of Palmprint Region From Diversified Hand Videos** 
+      – IEEE CONECCT 2024  
+      -Implemented a novel algorithm utilizing the Segment Anything Model using deep learning framework to accurately segment palmprint regions from diverse hand video datasets with annotations from a proprietary hand video dataset, containing videos of 30 individuals  
       - Applied advanced image processing techniques including thresholding, contour detection, and ROI extraction to enhance palmprint recognition efficiency by \(35 \%\), contributing to the development of robust biometric authentication systems  
       [Citation](https://ieeexplore.ieee.org/document/10677138)
 
-    - **Cancer Detection with machine learning approach** – Presented at the 2nd International Conference on Advancements in Smart Computing and Information Security: Reviewed 50+ research studies on ML techniques for detecting breast, lung, skin, and prostate cancers, with model accuracies ranging from \(82 \%\) to \(97 \%\).
+    - **Cancer Detection with machine learning approach** 
+      – Presented at the 2nd International Conference on Advancements in Smart Computing and Information Security: Reviewed 50+ research studies on ML techniques for detecting breast, lung, skin, and prostate cancers, with model accuracies ranging from \(82 \%\) to \(97 \%\).
       - Highlighted research gaps and societal impact, showing a potential \(25 \%\) reduction in diagnostic errors through ML models, while analyzing algorithm complexities like CNN \(\left(O\left(n^{2}\right)\right)\) and random forests \((O(n \log n)\) )  
       [Citation](https://ieeexplore.ieee.org/abstract/document/10461904)
 
-    - **A consolidated study of traditional data to Big Data** – Accepted in 3rd Asian Conference on Innovation in Technology (IJANA)
+    - **A consolidated study of traditional data to Big Data**
+      – Accepted in 3rd Asian Conference on Innovation in Technology (IJANA)
       - Highlighted the transition from RDBMS to NoSQL databases, focusing on MongoDB's efficiency in handling large-scale data, with observed improvements in query performance by up to \(40 \%\) due to its schema-less architecture  
       [Citation](https://www.researchgate.net/publication/378198693_A_consolidated_study_on_transformation_of_Traditional_Data_to_Big_Data)
 
     - **Energy theft detection in smart grid using deep learning algorithm**
-      Developed a precise deep learning model capable of accurately distinguishing between normal energy consumption and potential theft, leading to the implementation of an alert system for immediate action upon detection. Built a hardware setup showcasing the functionality of the deep learning model for energy theft detection, providing a tangible demonstration of its effectiveness to stakeholders
+       - Developed a precise deep learning model capable of accurately distinguishing between normal energy consumption and potential theft, leading to the implementation of an alert system for immediate action upon detection. Built a hardware setup showcasing the functionality of the deep learning model for energy theft detection, providing a tangible demonstration of its effectiveness to stakeholders
     """)
     st.subheader("📜 Patents")
     st.write("""
