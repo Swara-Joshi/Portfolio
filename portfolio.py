@@ -136,7 +136,8 @@ elif st.session_state.page == "projects":
       [Citation](https://ieeexplore.ieee.org/document/10677138)
 
     - **Cancer Detection with machine learning approach** 
-      – Presented at the 2nd International Conference on Advancements in Smart Computing and Information Security: Reviewed 50+ research studies on ML techniques for detecting breast, lung, skin, and prostate cancers, with model accuracies ranging from \(82 \%\) to \(97 \%\).
+      – Presented at the 2nd International Conference on Advancements in Smart Computing and Information Security
+      - Reviewed 50+ research studies on ML techniques for detecting breast, lung, skin, and prostate cancers, with model accuracies ranging from \(82 \%\) to \(97 \%\).
       - Highlighted research gaps and societal impact, showing a potential \(25 \%\) reduction in diagnostic errors through ML models, while analyzing algorithm complexities like CNN \(\left(O\left(n^{2}\right)\right)\) and random forests \((O(n \log n)\) )  
       [Citation](https://ieeexplore.ieee.org/abstract/document/10461904)
 
