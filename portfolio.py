@@ -131,7 +131,7 @@ elif st.session_state.page == "projects":
              
     - **Segmentation of Palmprint Region From Diversified Hand Videos** 
       – IEEE CONECCT 2024  
-      -Implemented a novel algorithm utilizing the Segment Anything Model using deep learning framework to accurately segment palmprint regions from diverse hand video datasets with annotations from a proprietary hand video dataset, containing videos of 30 individuals  
+      - Implemented a novel algorithm utilizing the Segment Anything Model using deep learning framework to accurately segment palmprint regions from diverse hand video datasets with annotations from a proprietary hand video dataset, containing videos of 30 individuals  
       - Applied advanced image processing techniques including thresholding, contour detection, and ROI extraction to enhance palmprint recognition efficiency by \(35 \%\), contributing to the development of robust biometric authentication systems  
       [Citation](https://ieeexplore.ieee.org/document/10677138)
 
